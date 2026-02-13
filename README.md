@@ -1,2 +1,2 @@
 # myfashfetch
-ini backup gw klo mau install ulng
+fastfetch pertama saya jika ada kesalahan mohon di beritahu
